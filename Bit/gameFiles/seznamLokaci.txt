@@ -1,0 +1,16 @@
+3
+
+Prales
+1 2 3
+yes
+1.2.3.Prales.txt
+
+Sopka
+5 6 10
+yes
+5.6.10.Sopka.txt
+
+Jeskyne
+1 4 7
+yes
+1.4.7.Jeskyne.txt

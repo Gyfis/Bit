@@ -1,2 +1,5 @@
 # Bit
-A software project made for the C++ class in school
+Softwarový projekt pro předmět C++.
+
+## Popis programu
+Bit je hra, která se sestává z konzolového prostředí, ve kterém uživatel prochází lokace a hraje hry s monstry. Hra končí ve chvíli, kdy neexistuje lokace, ve které by bylo neporažené monstrum.

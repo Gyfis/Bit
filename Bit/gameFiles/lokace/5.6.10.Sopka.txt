@@ -1,0 +1,10 @@
+100
+2
+
+drakb.txt
+yes
+20
+
+drakr.txt
+yes
+50
